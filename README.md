@@ -1,2 +1,2 @@
-# Computer-Graphics-Shape-Editor
-Trabalho desenvolvido para a disciplina de Computação Gráfica, no primeiro semestre de 2023 @UFRJ 
+# Computer-Graphics
+Trabalhos desenvolvidos para a disciplina de Computação Gráfica, no primeiro semestre de 2023 @UFRJ 
