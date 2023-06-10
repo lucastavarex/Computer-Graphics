@@ -35,7 +35,7 @@ n = 3;
 
 animacao_click = dict();
 animacao_remocao = dict();
-distancia_remocao = 10;
+distancia_remocao = 3;
 distancia_click = 0.2 * 1/n;
 
 # Esse código tem como objetivo encontrar as coordenadas de um cubo tridimensional a partir de um número fornecido.
