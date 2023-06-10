@@ -4,6 +4,8 @@
 #   Author: Lucas Tavares Da Silva Ferreira
 #   DRE: 120152739
 
+#   GitHub : https://github.com/lucastavarex/Computer-Graphics
+
 
 import sys
 from OpenGL.GLUT import *
