@@ -25,6 +25,11 @@ Neste trabalho faremos um "clone" do jogo "tap away 3d". O programa envolve o co
 - Especificação interativa de rotações usando arcball
 - Picking
 
+Run
+```
+python3 play.py
+```
+
 ## trab3
 A tarefa é implementar uma demonstração de curvas B-Spline seguindo as linhas gerais do notebook B-splines mostrado em aula. Em particular, você deve desenhar B-splines uniformes de grau entre 0 e 5. Use o mouse para movimentar 6 pontos de controle numa tela bi-dimensional. Use o teclado para aumentar o diminuir o grau: tecla "d" diminui o grau e tecla "D" aumenta o grau. O código do notebook pode ser usado como referência, mas sua implementação deve usar OpenGL. 
 
@@ -38,3 +43,8 @@ Dicas:
 
 Use glutBitmapCharacter() para desenhar as legendas dos pontos de controle.
 O código do notebook é um tanto ineficiente. Você pode fazer melhor! Em particular, nem todas as funções de base precisam ser computadas para todos os pontos plotados. 
+
+Run
+```
+python3 B-Splines.py
+```
