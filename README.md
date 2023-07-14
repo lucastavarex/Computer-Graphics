@@ -29,7 +29,7 @@ Neste trabalho faremos um "clone" do jogo "tap away 3d". O programa envolve o co
 - Especificação interativa de rotações usando arcball
 - Picking
 
-###Run
+### Run
 ```
 python3 play.py
 ```
@@ -48,7 +48,7 @@ Dicas:
 Use glutBitmapCharacter() para desenhar as legendas dos pontos de controle.
 O código do notebook é um tanto ineficiente. Você pode fazer melhor! Em particular, nem todas as funções de base precisam ser computadas para todos os pontos plotados. 
 
-Run
+### Run
 ```
 python3 B-Splines.py
 ```
