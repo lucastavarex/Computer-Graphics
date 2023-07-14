@@ -12,10 +12,14 @@ Neste trabalho, construiremos um editor simples de formas. O trabalho final impl
 - Aplicar rotações por clique e arraste
 - Aplicar escalas ao longo de um eixo (não alinhado com o sistema de coordenadas) por clique e arraste.
 
-Instalações
+### Instalações
 ```
 pip install numpy
 pip install pyrr
+```
+### Run
+```
+python3 cg_task1_shapes_editor.py
 ```
 
 ## trab2
@@ -25,7 +29,7 @@ Neste trabalho faremos um "clone" do jogo "tap away 3d". O programa envolve o co
 - Especificação interativa de rotações usando arcball
 - Picking
 
-Run
+###Run
 ```
 python3 play.py
 ```
